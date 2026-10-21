@@ -6,7 +6,7 @@
 
 Навык для Codex: отбирает сильные моменты подкаста, монтирует длинные видео, создаёт новый видеоряд по смыслу речи и собирает результат с оригинальным голосом, субтитрами и звуком.
 
-[![Версия](https://img.shields.io/github/v/release/NGerasimoB/media-studio?label=release&color=2563eb)](https://github.com/NGerasimoB/media-studio/releases/latest)
+[![Версия](https://img.shields.io/badge/release-v1.0.0-2563eb)](https://github.com/NGerasimoB/media-studio/releases/latest)
 ![Формат](https://img.shields.io/badge/Codex-skill-111827)
 ![Обработка](https://img.shields.io/badge/render-local-0f766e)
 
