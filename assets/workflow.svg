@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Audio waveform, motion composition and finished video formats">
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0b1222"/>
+      <stop offset="1" stop-color="#141c30"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="0">
+      <stop stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="screen" x2="1" y2="1">
+      <stop stop-color="#164e63"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#64748b" opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="340" rx="24" fill="url(#dots)"/>
+  <path d="M102 170H1178" stroke="#26364e" stroke-width="2" stroke-dasharray="4 8"/>
+  <g fill="#111c2e" stroke="#334155" stroke-width="1.5">
+    <rect x="58" y="58" width="326" height="224" rx="20"/>
+    <rect x="477" y="58" width="326" height="224" rx="20"/>
+    <rect x="896" y="58" width="326" height="224" rx="20"/>
+  </g>
+  <g fill="#475569">
+    <circle cx="83" cy="81" r="3"/><circle cx="95" cy="81" r="3"/><circle cx="107" cy="81" r="3"/>
+    <circle cx="502" cy="81" r="3"/><circle cx="514" cy="81" r="3"/><circle cx="526" cy="81" r="3"/>
+    <circle cx="921" cy="81" r="3"/><circle cx="933" cy="81" r="3"/><circle cx="945" cy="81" r="3"/>
+  </g>
+  <path d="M86 100H356M505 100H775M924 100H1194" stroke="#29394f"/>
+  <g stroke="#5eead4" stroke-width="5" stroke-linecap="round">
+    <path d="M93 158v24m12-36v48m12-61v74m12-56v38m12-66v94m12-81v68m12-96v124m12-100v76m12-57v38m12-49v60m12-45v30m12-66v102m12-82v62m12-84v106m12-73v40m12-62v84m12-71v58m12-39v20m12-49v78m12-56v34m12-26v18"/>
+  </g>
+  <g fill="#1e3a49">
+    <rect x="87" y="235" width="76" height="10" rx="5"/>
+    <rect x="171" y="235" width="104" height="10" rx="5"/>
+    <rect x="283" y="235" width="69" height="10" rx="5"/>
+  </g>
+  <rect x="171" y="235" width="73" height="10" rx="5" fill="#5eead4"/>
+  <path d="M223 116v102" stroke="#e2e8f0" stroke-width="1.5" opacity=".6"/>
+  <circle cx="223" cy="115" r="4" fill="#e2e8f0"/>
+  <g stroke="url(#accent)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M405 170h48m-11-9 11 9-11 9"/>
+    <path d="M824 170h48m-11-9 11 9-11 9"/>
+  </g>
+  <rect x="507" y="118" width="266" height="104" rx="12" fill="#0b1525"/>
+  <path d="M531 198h216M550 138v62" stroke="#334155" stroke-width="1.5"/>
+  <path d="M560 190c35-54 66 14 98-25s43-27 72-23" fill="none" stroke="#60a5fa" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="655" cy="168" r="16" fill="#5eead4"/>
+  <circle cx="655" cy="168" r="25" fill="none" stroke="#5eead4" opacity=".25"/>
+  <path d="M708 125v77" stroke="#93c5fd" stroke-width="3" stroke-dasharray="4 6"/>
+  <g fill="#3b82f6">
+    <rect x="507" y="237" width="68" height="11" rx="4"/>
+    <rect x="581" y="237" width="113" height="11" rx="4"/>
+    <rect x="700" y="237" width="73" height="11" rx="4"/>
+  </g>
+  <path d="M656 231v25" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="924" y="128" width="166" height="105" rx="10" fill="url(#screen)" stroke="#3b82f6"/>
+  <path d="M945 203c24-36 42-13 64-37s32-18 57-5" stroke="#5eead4" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="1003" cy="174" r="11" fill="#5eead4"/>
+  <rect x="951" y="215" width="105" height="5" rx="2.5" fill="#dbeafe" opacity=".85"/>
+  <rect x="1105" y="115" width="89" height="143" rx="12" fill="#142e44" stroke="#5eead4"/>
+  <circle cx="1149" cy="164" r="18" fill="#60a5fa"/>
+  <path d="M1120 199c11-25 30-6 57-34" stroke="#5eead4" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="1120" y="224" width="59" height="5" rx="2.5" fill="#dbeafe"/>
+  <rect x="1129" y="234" width="41" height="5" rx="2.5" fill="#dbeafe" opacity=".45"/>
+</svg>
